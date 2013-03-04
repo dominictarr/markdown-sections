@@ -1,0 +1,12 @@
+{
+  "name": "markdown-sections",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dominictarr/markdown-sections",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dominictarr/markdown-sections.git"
+  },
+  "author": "Dominic Tarr <dominic.tarr@gmail.com> (http://dominictarr.com)",
+  "license": "MIT"  
+}
