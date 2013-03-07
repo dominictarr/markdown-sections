@@ -1,7 +1,7 @@
 {
   "name": "markdown-sections",
   "description": "get the #sections in a markdown file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/dominictarr/markdown-sections",
   "repository": {
     "type": "git",
